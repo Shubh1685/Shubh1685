@@ -1,0 +1,30 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<table border ="1">
+<body>
+<tr>
+<th>logo</th>
+<td colspan = "4">Website Name</td>
+</tr>
+<tr>
+<th>Home</th>
+<th>Login</th>
+<th>Registration</th>
+<th>Catalogue</th>
+<th>Cart</th>
+</tr>
+<tr>
+<th>CSE</th>
+</tr>
+<tr>
+<th>ECE</th>
+</tr>
+<tr>
+<th>EEE</th>
+</tr>
+<tr>
+<th>CIVIL</th>
+</tr>    
+</body>
+</table>
